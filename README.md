@@ -1,6 +1,6 @@
 # QuickProtocol
 A simple protocol for TCP,Pipeline,SerialPort,WebSocket. 
-![Logo](logo.png "QuickProtocol")
+![Logo](logo_small.png "QuickProtocol")
 
 | Language      | Repo |
 | ----------- | ----------- |
