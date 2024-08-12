@@ -6,4 +6,4 @@ A simple protocol for TCP,Pipeline,SerialPort,WebSocket.
 | ----------- | ----------- |
 | C#      | https://github.com/QuickProtocol/QuickProtocol_CSharp       |
 | Java   | https://github.com/QuickProtocol/QuickProtocol_Java        |
-| Rust   | Wait to do        |
+| Vala   | https://github.com/QuickProtocol/QuickProtocol_Vala        |
